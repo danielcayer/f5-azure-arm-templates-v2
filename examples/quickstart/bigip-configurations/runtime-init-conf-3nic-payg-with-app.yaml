@@ -98,7 +98,7 @@ extension_services:
           My_Provisioning:
             class: Provision
             ltm: nominal
-            apsm: nominal
+            apm: nominal
             asm: nominal
           My_System:
             class: System
